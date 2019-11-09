@@ -1,0 +1,4 @@
+# MC-JP-Forum-Extension
+旧フォーラムからバックアップサイトに自動リダイレクト
+
+TampermonkeyなどのUserscriptを使える奴をインストールして導入してください。
